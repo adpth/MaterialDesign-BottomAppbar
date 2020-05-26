@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">bottom Appbar</string>
+    <string name="name">Name</string>
+    <string name="info">info</string>
+    <string name="image">image</string>
+    <string name="search">Search</string>
+
+</resources>
